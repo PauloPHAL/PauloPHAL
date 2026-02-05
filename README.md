@@ -11,9 +11,6 @@ Atuo com desenvolvimento, integrações e automações.
 - 📦 Logística e dados
 - 🧠 Sempre aprendendo
 
-f
-
-ff
 
 ### 📂 Repositórios
 Confira meus projetos fixados abaixo 👇
