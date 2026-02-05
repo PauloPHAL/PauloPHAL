@@ -1,5 +1,16 @@
 ## Olá! Eu sou o Paulo Henrique 🖐️
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloPHAL&show_icons=true&theme=dracula&count_private=true)
+Apaixonado por tecnologia ♥  
+Atuo com desenvolvimento, integrações e automações.
 
-Apaixonado por tecnologia.♥
+---
+
+### 🚀 Sobre mim
+- 💻 Backend e integrações
+- 🔄 APIs, EDI, TMS
+- 📦 Logística e dados
+- 🧠 Sempre aprendendo
+
+
+### 📂 Repositórios
+Confira meus projetos fixados abaixo 👇
